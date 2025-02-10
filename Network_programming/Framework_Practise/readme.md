@@ -1,0 +1,2 @@
+1. [serde](./serde_practise/readme.md), a framework of rust to handle serialization and deserialization.
+    - refer to [serde overview](https://serde.rs/) or [magiclen.org/rust-serde](https://magiclen.org/rust-serde/).
