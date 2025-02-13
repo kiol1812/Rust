@@ -1,6 +1,6 @@
 # Serde Practise
 refer to [serde overview](https://serde.rs/) or [magiclen.org/rust-serde](https://magiclen.org/rust-serde/).  
-also see [serde_practise](../../Framework_Practise/serde_practise/readme.md).
+also see [serde_server](../serde_server/readme.md).
 <!-- also see [serde-custom](../serde_custom/readme.md). -->
 ```plain
 serde_practise/
