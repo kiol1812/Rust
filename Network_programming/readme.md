@@ -9,3 +9,7 @@ refer to [playlist](https://youtube.com/playlist?list=PLTgRMOcmRb3M2fbwAgclKI0yt
 ---
 building a web server in rust.  
 refer to [tutorial part 1](https://youtu.be/BHxmWTVFWxQ?si=k-PJk7VJMiqcTFE4), [part 2](https://youtu.be/1AamFJGAE8E?si=sUsyZVdZCBQs0gKw), and [part 3](https://youtu.be/qjx8vutWaUQ?si=NbEcrHAuyTgJA5h6)
+
+1. [part 1](./single_threaded_web_server/readme.md), single threaded web server
+2. [part 2](), multi-threaded web server
+3. [part 3](), graceful shutdown and cleanup
