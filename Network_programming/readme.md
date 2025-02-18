@@ -13,3 +13,8 @@ refer to [tutorial part 1](https://youtu.be/BHxmWTVFWxQ?si=k-PJk7VJMiqcTFE4), [p
 1. [part 1](./single_threaded_web_server/readme.md), single threaded web server
 2. [part 2](./multi_threaded_web_server/readme.md), multi-threaded web server
 3. [part 3](./sample_web_server/readme.md), graceful shutdown and cleanup
+
+---
+build a proxy server to intercept, then use modsecurity to detect malicious request.
+refer to [rust interfase modsecurity](https://github.com/rkrishn7/rust-modsecurity/tree/v1.0.0), [crates: modsecurity](https://crates.io/crates/modsecurity) and [libmodsecurity](https://crates.io/crates/modsecurity-rs).  
+- [proxy server](./proxy_server/readme.md)
